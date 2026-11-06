@@ -1,6 +1,6 @@
 # Lab 6 - Comparing two samples and paired measurements
 
-Exercises: 3.5(a)-(e), 3.6(a), 3.7(a)-(b), 3.8(a)-(b), and 3.9(a)-(c). Based on [[statistics_exercises_ch3_solution.pdf|the uploaded Chapter 3 solutions]], printed pages 17-21 and 24-35. Results below follow the source's rounding where appropriate; direct calculation from raw data can change the last decimal.
+Exercises: 3.5(a)-(e), 3.6(a), 3.7(a)-(b), 3.8(a)-(b), and 3.9(a)-(c). Based on the [Chapter 3 solutions PDF](<../../Week 4/Exercises/statistics_exercises_ch3_solution.pdf>), printed pages 17-21 and 24-35. Results below follow the source's rounding where appropriate; direct calculation from raw data can change the last decimal.
 
 | Exercise | Setting | Method |
 |---|---|---|
