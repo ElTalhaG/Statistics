@@ -1,6 +1,6 @@
 # Lab 5 - Hypothesis testing
 
-Exercises: 3.4(a)-(d) and 3.12(a)-(e). Based on [[statistics_exercises_ch3_solution.pdf|the uploaded Chapter 3 solutions]], printed pages 13-15 and 48-52.
+Exercises: 3.4(a)-(d) and 3.12(a)-(e). Based on the [Chapter 3 solutions PDF](<../../Week 4/Exercises/statistics_exercises_ch3_solution.pdf>), printed pages 13-15 and 48-52.
 
 For a two-sided one-sample test of a normal population with unknown standard deviation:
 
@@ -163,7 +163,7 @@ With only $n=9$, we cannot rely on a large sample to smooth out strong skewness 
 
 The source compares the real data (the central panel with a red border) with eight simulated normal samples of the same size:
 
-![[lab-5-exercise-3-12-qq.png]]
+![Q-Q plot for Exercise 3.12](lab-5-exercise-3-12-qq.png)
 
 **How to read the plot:** the horizontal axis contains theoretical normal quantiles, and the vertical axis contains ordered sample values. If a normal model is reasonable, the points should approximately follow a straight line. With only nine observations, even genuinely normal samples show visible departures from a line.
 
