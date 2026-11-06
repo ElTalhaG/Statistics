@@ -1,6 +1,6 @@
 # Lab 8 - Chapter 5 Exercises
 
-Exercises 5.1-5.6: printable worked solutions are in the [Obsidian Lab 8 note](<file:///Users/talha/Documents/Obsidian%20Vault/3.%20SEMESTER/Statistics%2002323/3.%20Lab/Lab%208.md>).
+Exercises 5.1-5.6: printable worked solutions are in [Lab 8 Answers.md](<Lab 8 Answers.md>).
 
 The runnable regression calculations and plots are in [lab_8_regression.py](<lab_8_regression.py>). From this folder, run:
 
