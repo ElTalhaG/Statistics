@@ -8,4 +8,4 @@ The script prints the seeded simulation results and saves the Exercise 4.1 histo
 
 Exercise 4.2 is calculated from the ordered bootstrap means supplied in the [Chapter 4 solutions PDF](<statistics_exercises_ch4_solution.pdf>).
 
-The full step-by-step explanations, formulas, interpretations, and results are in the [Obsidian Lab 7 note](<file:///Users/talha/Documents/Obsidian%20Vault/3.%20SEMESTER/Statistics%2002323/3.%20Lab/Lab%207.md>).
+The full step-by-step explanations, formulas, interpretations, and results are in [Lab 7 Answers.md](<Lab 7 Answers.md>).
